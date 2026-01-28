@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model files
+*.pkl
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training data
+training_data/
+*.csv
+*.json
+
+# Output files
+output/
+results/
+frames/
+
